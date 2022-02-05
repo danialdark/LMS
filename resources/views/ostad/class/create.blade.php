@@ -53,7 +53,7 @@
             <input type="submit" value="ساخت کلاس جدید" class="btn btn-success float-right">
         </div>
     </div>
-    <p> ava  </p>
+    
     </form>
 
 @endsection
